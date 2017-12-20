@@ -1,0 +1,9 @@
+module mptcphandler {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:mptcphandler";
+    prefix "mptcphandler";
+
+    revision "2015-01-05" {
+        description "Initial revision of mptcphandler model";
+    }
+}
